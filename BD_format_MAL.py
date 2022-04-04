@@ -69,7 +69,7 @@ for i in range(sheet.nrows):
         "\t\t<my_rewatching_ep>0</my_rewatching_ep>\n",
         "\t\t<update_on_import>1</update_on_import>\n",
     "\t</anime>\n\n"]
-
+	#date is no sense, juste to keep order of watched anime
     date = date + timedelta(days=1) + timedelta(days=1)
 
 # \n is placed to indicate EOL (End of Line)

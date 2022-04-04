@@ -1,6 +1,6 @@
 #!/bin/bash
 
-_input="./tri_to_txt_correctionText.txt"
+_input="./2_word2txt_correction_done.txt"
 # set IFS (internal field separator) to |
 # read file using while loop
 id=0
